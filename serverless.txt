@@ -1,0 +1,8 @@
+1. npm install -g serverless
+2. serverless create 
+3. serverless create -t aws-nodejs
+4. configure your yml
+5. serverless deploy
+
+6. serverless deploy --stage production
+7.
